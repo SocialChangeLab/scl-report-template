@@ -14,4 +14,4 @@ This will install the extension and create a `template.qmd` file that you can us
 
 Here is the source code for a minimal sample document: [template.qmd](template.qmd)
 
-And the rendered report: [template.html](template.html)
+And the rendered report: [template.html](https://socialchangelab.github.io/scl-report-template/template.html)
