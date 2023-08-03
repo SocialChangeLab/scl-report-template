@@ -50,7 +50,9 @@ theme_scl <- function(
 
 ## Plot
 
-- classic `ggplot2` example with custom SCL theme
+-   classic `ggplot2` example with custom `theme_scl()` function
+
+-   use `paletteer::scale_color_paletteer_d("colorblindr::OkabeIto_black")` for the Okabe-Ito (2008) colour-blind-friendly palette
 
 ```{r plot}
 mpg %>%
