@@ -1,0 +1,9 @@
+/*-- scss:defaults --*/
+$logo-color: #0F4AB2;
+
+$primary: $logo-color;
+
+/*-- scss:rules --*/
+h1, h2, h3, h4, h5, h6 {
+  color: $logo-color;
+}
