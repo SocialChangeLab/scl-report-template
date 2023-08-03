@@ -50,7 +50,7 @@ theme_scl <- function(
 
 ## Plot
 
-- classic ggplot2 example with custom SCL theme
+- classic `ggplot2` example with custom SCL theme
 
 ```{r plot}
 mpg %>%
