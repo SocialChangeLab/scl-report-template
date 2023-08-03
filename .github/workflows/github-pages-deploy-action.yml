@@ -32,4 +32,4 @@ jobs:
         with:
           clean: false
           branch: gh-pages
-          folder: docs
+          folder: / # directory you're trying to deploy
