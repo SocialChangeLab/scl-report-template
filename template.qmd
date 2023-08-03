@@ -24,7 +24,7 @@ library(tidyverse)
 #| eval: true
 #| echo: false
 
-scl_colors <- c("logo" = "#3653C8", "#0B2E6E", "#0F4AB2", "font" = "#243937")
+scl_colors <- c("logo" = "#3653C8", "font" = "#243937", "#0B2E6E", "#0F4AB2")
 
 theme_scl <- function(
     base_size = 12,
