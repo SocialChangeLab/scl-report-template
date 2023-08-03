@@ -4,7 +4,7 @@ subtitle: Subtitle
 author: Lennart Klein
 date: last-modified
 format:
-  SCL-html: default
+  scl-html: default
 execute:
   cache: true
   freeze: auto
